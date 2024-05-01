@@ -11,7 +11,7 @@ Emma Kunz's artwork
 from web
 
 ![Emma Kunz's artwork ](https://i.pinimg.com/originals/b2/c4/28/b2c428d13256d268e253c0ef1585fbed.jpg)
-(https://flashbak.com/wp-content/uploads/2019/05/Emma-Kunz-.jpg)
+![alt text](images/Emma-Kunz-.jpg)
 
 
 # Part B
