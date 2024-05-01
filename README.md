@@ -1,39 +1,17 @@
 # yche0336_9103_tu8
-# Header
-## Header
-# **Hola**
-## *Hola in italic*
-*Hola in italic*
+# Week8 quiz
 
-Unordered list
-- item 1
- - Subitem
-  - ## sub
+# Part A
 
-  1. Number1
-  2. Number 2
+Emma Kunz's artwork is characterized by the use of geometric patterns and color combinations that act like kaleidoscopes. She creates drawings with strict geometric rules, often on a scale using pendulums, compasses and rulers. While seemingly symmetrical patterns, the details are irregular, and the drawings are based on repetition and drawing rituals that make the work both precise and imperfect. I wanted to incorporate the geometric patterns in Emma's work as inspiration for my project, as the work of Pacita Abad and Piet Mondrian in the major project also featured repeated geometric patterns and combinations of colors.
 
-  # Links
-  [What is github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 # Images
-from webpage
+Emma Kunz's artwork 
+from web
 
-![A cat](https://th.bing.com/th/id/R.fc9ff391e0b92927fc4a526a939b2ca3?rik=M35YB1MrloATrw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fd%2fd4%2fCat_March_2010-1a.jpg&ehk=lmx5Dow%2btE7KUtrgWeamODrZNBeLisLC4x4%2bkXQRDq8%3d&risl=1&pid=ImgRaw&r=0)
+![Emma Kunz's artwork ](https://i.pinimg.com/originals/b2/c4/28/b2c428d13256d268e253c0ef1585fbed.jpg)
+https://flashbak.com/wp-content/uploads/2019/05/Emma-Kunz-.jpg
 
-# Images
-custom
-![A cat](readmeImages/karen.jpg)
 
-# Code Blocks
-backtick:
-`print("Hello world")`
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-# Blockquotes
-> This is a blockquote
-1234
+# Part B
